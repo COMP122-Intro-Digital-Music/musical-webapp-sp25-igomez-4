@@ -6,5 +6,13 @@
     "loop": "1m",
     "grain": 0.04,
     "overlap": 0.01
+  },
+    {
+    "name": "bingbong",
+    "file": "samples/doorsopen.mp3",
+    "bpm": "130",
+    "loop": "1m",
+    "grain": 0.04,
+    "overlap": "0.011"
   }
 ]
