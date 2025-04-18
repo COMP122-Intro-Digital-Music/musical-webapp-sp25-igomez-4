@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "name": "woohoo",
+    "loop": "1:0:0",
+    "octave": -1,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "Bb4",
+        "dur": "2n",
+        "vel": "0.6"
+      },
+      {
+        "time": "0:0:0.0",
+        "pitch": "D4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "F4",
+        "dur": "2n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "Bb4",
+        "dur": "2n",
+        "vel": "1"
+      }
+    ]
+  }
+]
+[
+  {
+    "name": "tehe",
+    "loop": "1:0:0",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "F4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:0.0",
+        "pitch": "Bb4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:2:0.0",
+        "pitch": "A4",
+        "dur": "4n",
+        "vel": "1"
+      },
+      {
+        "time": "0:3:0.0",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
